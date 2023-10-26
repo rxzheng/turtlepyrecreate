@@ -1,23 +1,24 @@
 import turtle
 import _tkinter as tk
 import sys
-sys.stdin = open("hexifer.txt", "r")
+sys.stdin = open("hexifier.txt", "r")
 width, height = input().split()
 hexl = []
 hexl = list(input().split())
 # Set up the Turtle screen
 screen = turtle.Screen()
-screen.setup(400, 400)
+screen.setup(326811,240948) 
+#326,811 x 240,948
 
 # Create a Turtle object
 t = turtle.Turtle()
 t.speed(0)  # Set the drawing speed (0 is the fastest)
 
 # Set the initial position for drawing
-x, y = 100, 100
+x, y = -600, 500
 
 # Set the size of each square
-square_size = 20
+square_size = 1
 
 ptr = 0
 # Loop through the list of hex color codes and draw squares

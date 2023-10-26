@@ -2,7 +2,7 @@ from PIL import Image
 import sys
 sys.stdout = open("hexifier.txt", "w")
 # REPLACE IMGPATH WITH THE IMAGE'S PATH
-img = Image.open('/Users/richardzheng/Documents/GitHub/learnpython/promotionalposterturtle/poster/hangingRockImage.jpg')
+img = Image.open('/Users/richardzheng/Documents/GitHub/turtlepyrecreate/hangingRockImage.jpg')
 
 #RGB
 rgb_img = img.convert('RGB')
