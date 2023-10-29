@@ -1,8 +1,8 @@
 imagesizex = 900
-imgsizey = 99
-x = -1*imagsize/2
-y-imgsizey/2
-turtle.screensize(900/2, 750/2)
+imgsizey = 1200
+x = -1*imagesizex/2
+y=imgsizey/2
+turtle.screensize(900/2, 1200/2)
 turtle.goto(x,y)
 for i in hexl:
     turtle.color(i)
