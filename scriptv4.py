@@ -13,7 +13,7 @@ screen.setup(900, 1200)
 # Create a Turtle object
 t = turtle.Turtle()
 t.speed("fastest")  # Set the drawing speed (0 is the fastest)
-turtle.tracer(0,0)
+turtle.tracer(100000,0)
 # Set the initial position for drawing
 x, y = -450, 500
 
