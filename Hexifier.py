@@ -23,7 +23,7 @@ for y in range(height):
 
         # Print the hex code
         hexl.append(hex_code)
-import sys
+
 sys.stdout = open("hexifier.txt", "w")
 for i in hexl:
   print(i+" ", end = '')

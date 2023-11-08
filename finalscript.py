@@ -6,7 +6,7 @@ width, height = input().split()
 hexl = []
 hexl = list(input().split())
 
-# Set up the Turtle screen
+# Set up the Turtle scree=
 screen = turtle.Screen()
 screen.setup(900, 1200)
 
