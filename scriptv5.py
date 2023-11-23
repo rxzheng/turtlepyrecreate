@@ -26,7 +26,7 @@ t.setheading(45)
 t.color("white")
 t.write("HANGING ROCK", move = False, align = 'center', font=("Roboto", 40, "normal"))
 t.goto(0,-300)
-t.write("61=401776338", move = False, align = 'center', font=("Roboto", 40, "normal"))
+t.write("61+401776338", move = False, align = 'center', font=("Roboto", 40, "normal"))
 # Set the size of each square
 square_size = 1
 
