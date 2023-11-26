@@ -1,5 +1,5 @@
-Hello Ms. Desouza,
-This is the code for my poster.
+This is a script that allows you to recreate an image with Python turtle. It uses a pixel-scanning technique and iterates through a list to print an image with Python turtle.
+
 
 In order to run this code, please do this:
 ```bash
@@ -25,3 +25,12 @@ https://www.wikihow.com/Find-a-File%27s-Path-on-Windows
 
 How to find this on Mac:
 https://www.tomsguide.com/how-to/how-to-show-a-file-path-on-mac
+
+To execute the code, either:
+1. Open it in your code editor and execute it
+
+2. Navigate to the place that you cloned the git repository.
+```bash
+cd turtlepyrecreate
+python3 recreate.py
+```
