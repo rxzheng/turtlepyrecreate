@@ -26,6 +26,12 @@ https://www.wikihow.com/Find-a-File%27s-Path-on-Windows
 How to find this on Mac:
 https://www.tomsguide.com/how-to/how-to-show-a-file-path-on-mac
 
+Then, copy paste the path into 
+```python
+Image.open('the_path_here') 
+```
+with quotation marks around it.
+
 To execute the code, either:
 1. Open it in your code editor and execute it
 
