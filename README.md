@@ -1,5 +1,5 @@
 This is a script that allows you to recreate an image with Python turtle. It uses a pixel-scanning technique and iterates through a list to print an image with Python turtle.
-
+**Please note: this script needs a strong computer and quite some time to execute**
 
 In order to run this code, please do this:
 ```bash
