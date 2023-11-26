@@ -2,6 +2,22 @@ This is a script that allows you to recreate an image with Python turtle. It use
 **Please note: this script needs a strong computer and quite some time to execute**
 
 In order to run this code, please do this:
+
+Check that python is installed on your computer.
+```bash
+python3 --version
+```
+or 
+```bash
+python --version
+```
+
+Check that pillow module is installed.
+```bash
+python3 -m pip install pillow
+```
+
+Now, install the repository.
 ```bash
 git clone https://github.com/rxzheng/turtlepyrecreate
 ```
